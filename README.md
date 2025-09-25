@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahmutiLaman
 - 👀 I’m interested in Mobile Development 
-- 🌱 I’m currently learning BLoC
-- 📫 How to reach me: https://t.me/mahmut_orhan
+- 🌱 
+- 📫 How to reach me: https://t.me/mahmutiLaman
 
 <!---
 mahmutiLaman/mahmutiLaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
